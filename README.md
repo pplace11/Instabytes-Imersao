@@ -43,19 +43,20 @@ Certifique-se de ter o Node.js e o npm instalados.
    cd Instabytes-Imersao
    ```
 2. **Instale as dependências:**
-```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 
 3. **Execute a aplicação:**
-```bash
-npm start
-```
+   ```bash
+   npm start
+   ```
 
 4. **Acesse a aplicação em seu navegador:**
-```bash
-http://localhost:3000
-```
+   ```bash
+   http://localhost:3000
+   ```
+   
 🗂️ Estrutura do Projeto
 ```plaintext
 Instabytes-Imersao/
